@@ -1,5 +1,5 @@
 {
-    "name": "barros001/zanox-api-client-php",
+    "name": "zanox/api-client-php",
     "type": "library",
     "description": "Zanox API with composer support",
     "keywords": ["Zanox"],
